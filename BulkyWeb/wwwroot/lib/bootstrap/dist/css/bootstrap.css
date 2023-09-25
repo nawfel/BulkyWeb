@@ -4388,14 +4388,14 @@ textarea.form-control-lg {
 .navbar-text {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    color: var(--bs-navbar-color);
+   
 }
 
-    .navbar-text a,
+    /*.navbar-text a,
     .navbar-text a:hover,
     .navbar-text a:focus {
         color: var(--bs-navbar-active-color);
-    }
+    }*/
 
 .navbar-collapse {
     flex-basis: 100%;
