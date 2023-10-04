@@ -44,11 +44,11 @@ namespace Bulky.DataAccess
                     ISBN = "isbn21234353",
                     ListPrice = 19,
                     Price = 19,
-                    Price100= 19,
-                    Price50= 19,
-                    CategoryId=1,
-                    Author="RDGDG"
-                    
+                    Price100 = 19,
+                    Price50 = 19,
+                    CategoryId = 1,
+                    Author = "RDGDG",
+                    ImageUrl = ""
 
                 },
                 new Models.Models.Product
@@ -62,10 +62,11 @@ namespace Bulky.DataAccess
                     Price100 = 19,
                     Price50 = 19,
                     CategoryId = 1,
-                    Author="DVXFV"
+                    Author = "DVXFV",
+                    ImageUrl = ""
 
                 }
-                ) ;
+                );
         }
     }
 }
